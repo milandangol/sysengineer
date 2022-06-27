@@ -3,7 +3,7 @@
 
 ## All the things i am learning 
 - LINUX
-- [NGINX] (https://github.com/milandangol/sysengineer/tree/main/ngnix)
+- [NGINX](https://github.com/milandangol/sysengineer/tree/main/ngnix)
 - NAGIOS
 - JNKINES
 - SSMS
