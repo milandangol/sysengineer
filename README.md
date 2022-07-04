@@ -1,4 +1,4 @@
-# Journey of Network/SYS Engineer and DevOPS
+# Journey of Network/SYS Engineer ---> DevOPS
 
 
 ## All the things i am learning 
